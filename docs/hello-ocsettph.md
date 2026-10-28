@@ -4,3 +4,5 @@
 
 - ผู้เขียน: ocsettph
 - วัตถุประสงค์: ทดสอบขั้นตอน commit → push → Pull Request
+
+เขียนจาก main: ทดสอบ merge conflict
